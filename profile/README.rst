@@ -15,15 +15,11 @@ Documentation
 
 To get learn more about the Synaptics Astra SDK go to the `documentation <https://syna-astra.github.io/doc/>`_.
 
-How to get support
-------------------
 
-You can ask questions in the `discussions <https://github.com/orgs/syna-astra/discussions>`_ section of this organization. 
+How to File a Support Ticket
+----------------------------
 
-How to report an issue
-----------------------
-
-You can file issues report in the `sdk <https://github.com/syna-astra/sdk/issues>`_ repository
+You can file a support ticket `here <https://synacsm-newstage.atlassian.net/servicedesk/customer/portal/3>`_ repository
 
 Contact
 -------
